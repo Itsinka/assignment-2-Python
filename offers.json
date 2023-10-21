@@ -1,0 +1,56 @@
+[
+    {
+        "title": "Toyota Camry 2015 г",
+        "price": "12 620 000 ₸",
+        "city": " Almaty",
+        "link": "https://kolesa.kz/a/show/160180585"
+    },
+    {
+        "title": "Kia K5 2023 года в Казахстане",
+        "price": "13 990 000 ₸",
+        "city": "Taraz",
+        "link": "https://kolesa.kz/a/show/157676270?source=new-auto-link"
+    },
+    {
+        "title": "Toyota Land Cruiser Prado Comfort 2022 г.",
+        "price": "27 500 000 ₸",
+        "address": "Костанай",
+        "link": "https://kolesa.kz/cars/new/toyota-land-cruiser-prado/"
+    },
+    {
+        "title": "Кадиллак Escalade 2023 года в Казахстане",
+        "price": "65 000 000 ₸",
+        "address": "Петропавловск",
+        "link": "https://kolesa.kz/cars/new/cadillac-escalade/"
+    },
+    {
+        "title": "Mitsubishi ASX 2023 года в Казахстане",
+        "price": "8 990 000 ₸",
+        "address": "Астана",
+        "link": "https://kolesa.kz/cars/new/mitsubishi-asx/"
+    },
+    {
+        "title": "Zeekr 001 2023 года в Казахстане",
+        "price": "18 630 000 ₸",
+        "address": "Алматы",
+        "link": "https://kolesa.kz/cars/new/zeekr-001-1-pokolenie-liftback/"
+    },
+    {
+        "title": "Zeekr 001 WE 2WD 2023 г",
+        "price": "19 150 000 ₸",
+        "address": "Алматы",
+        "link": "https://kolesa.kz/a/show/153854827?source=new-auto-link"
+    },
+    {
+        "title": "Kia Rio 2023 года в Казахстане",
+        "price": "10 590 000 ₸",
+        "address": "Шымкент",
+        "link": "https://kolesa.kz/cars/new/kia-rio/"
+    },
+    {
+        "title": "Kia K900 2019г",
+        "price": "18 500 000 ₸",
+        "address": "Астана",
+        "link": "https://kolesa.kz/a/show/142818514"
+    }
+]
